@@ -9,10 +9,15 @@ Aqui estão alguns dos projetos que desenvolvi ou estão em desenvolvimento:
 1. **Apollo (Em desenvoltimento)**
    - **Descrição:** Um editor de foguetes constituidos de garrafa PET, focado para a **Mostra Brasileira de Foguetes (MobFog)**.
    - **Linguagem de Programação:** C++, GLSL
-   - **Link do Repositório:** [Link para o repositório](#)
+   - **Link do Repositório:** Por enquanto está em privado para o desenvolvimento do projeto.
+     
+2. **Mararuana - Engine (Em desenvoltimento)**
+   - **Descrição:** Uma engine desenvolvida para aplicações gerais, destinada ao desenvolvimento de softwares de qualquer finalidade.
+   - **Linguagem de Programação:** C++, GLSL
+   - **Link do Repositório:** Por enquanto está em privado para o desenvolvimento do projeto.
 
 ## Habilidades
-- **Linguagens de Programação:** C++, GDScript, GLSL (atualmente em processo de aprendizado)
+- **Linguagens de Programação:** C++, GDScript, GLSL, Lua (atualmente em processo de aprendizado)
 - **Desenvolvimento Web:** p5.js (atualmente em processo de aprendizado)
 - **Banco de Dados:** nenhum
 - **Ferramentas e Tecnologias:** Git (atualmente em processo de aprendizado)
