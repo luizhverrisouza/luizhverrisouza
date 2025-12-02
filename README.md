@@ -18,7 +18,7 @@ Here are some projects I have developed or that are in progress:
 
    * **Description:** A solver for the Erdős-Straus Conjecture that computes solutions quickly in real time.
 
-   * **Languages:** C++
+   * **Languages:** C++, C
 
    * **Repository:** [Repository link](https://github.com/luizhverrisouza/Erdos-Straus-Solver)
 
